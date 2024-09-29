@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 cout<<"enter the radius of the circle:";
-int radius;
+float radius;
 cin>>radius;
 float area=3.14*radius*radius;
 float cir=2*3.14*radius;
