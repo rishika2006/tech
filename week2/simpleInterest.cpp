@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-int p,r,t;
+float p,r,t;
 float SI;
 cout<<"enter the principle amount:";
 cin>>p;
