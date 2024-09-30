@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     float a,b,c;
-    cout<<"enter 1ist side of triangle:";
+    cout<<"enter ist side of triangle:";
     cin>>a;
     cout<<"enter 2nd side of triangle:";
     cin>>b;
@@ -13,7 +13,6 @@ int main(){
     }
     else if(a==b&&a!=c||b==c&&b!=a||c==a&&c!=b){
         cout<<"It's an isosceles triangle.";
-
     }
     else{
                 cout<<c<<"It's an scalene triangle.";

@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
    cout<<"enter the marks of hindi:";
-   float hindi,english,math,science,computer;
+   int hindi,english,math,science,computer;
    cin>>hindi;
    cout<<"enter the marks of english:";
    cin>>english;
