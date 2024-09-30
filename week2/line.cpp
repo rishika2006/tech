@@ -17,5 +17,5 @@ int main(){
     else{
         cout<<"line is not straight";
     }
-return 0;
+    return 0;
 }

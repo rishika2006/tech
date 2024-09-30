@@ -15,8 +15,6 @@ if(area>per){
 }
 else{
         cout<<"area of circle having length "<<length<<" and  breadth "<<breadth<<" is smaller than its perimeter";
-
-   }
-
-    return 0;
+    }
+     return 0;
 }

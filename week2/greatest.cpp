@@ -13,12 +13,10 @@ int main(){
             }
     else if(b>a&&b>c){
         cout<<b<<" is greater than "<<a<<" and "<<c;
-
-    }
+     }
     else{
-                cout<<c<<" is greater than "<<a<<" and "<<c;
-
-    }
+          cout<<c<<" is greater than "<<a<<" and "<<c;
+     }
 
     return 0;
 }

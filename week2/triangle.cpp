@@ -15,9 +15,7 @@ int main(){
         cout<<"It's an isosceles triangle.";
     }
     else{
-                cout<<c<<"It's an scalene triangle.";
-
-    }
-
+         cout<<c<<"It's an scalene triangle.";
+         }
     return 0;
 }
