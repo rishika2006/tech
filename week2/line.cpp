@@ -10,8 +10,8 @@ int main(){
     cin>>x3>>y3;
     slope12=(y2-y1)/(x2-x1);
     slope23=(y3-y2)/(x3-x2);
-    slope31=(y1-y3)/(x1-x3);
-    if(slope12==slope23&&slope12==slope31){
+    
+    if(slope12==slope23){
         cout<<"line is straight";
     }
     else{
